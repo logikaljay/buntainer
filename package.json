@@ -1,0 +1,12 @@
+{
+  "name": "@5oo/buntainer",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
